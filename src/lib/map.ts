@@ -6,7 +6,8 @@ import { setWorkerUrl } from "maplibre-gl";
 // renders any vector layer. Point it at our own static copy instead (kept in
 // sync via the "postinstall" script — see scripts/copy-maplibre-worker.mjs).
 if (typeof window !== "undefined") {
-  setWorkerUrl("/maplibre-gl-worker.mjs");
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+  setWorkerUrl(`${basePath}/maplibre-gl-worker.mjs`);
 }
 
 // Free, no-API-key vector tiles for MapLibre GL, courtesy of OpenFreeMap

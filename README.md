@@ -37,6 +37,22 @@ This outputs a static `out/` folder (`output: 'export'` in `next.config.ts`)
 that can be hosted on GitHub Pages, Netlify, Vercel, S3, or any static file
 host.
 
+## Deployment
+
+`.github/workflows/deploy-pages.yml` builds and deploys the site to GitHub
+Pages automatically on every push to this branch. One-time setup (repo
+owner only): **Settings → Pages → Source: "GitHub Actions"**. After that the
+site is live at `https://<owner>.github.io/<repo>/` and redeploys on every
+push — check the **Actions** tab for build status/logs.
+
+GitHub Pages serves the site from a `/<repo-name>/` sub-path rather than a
+domain root, so the workflow builds with `NEXT_PUBLIC_BASE_PATH` set
+accordingly (wired into `next.config.ts`'s `basePath`/`assetPrefix`, and into
+the MapLibre worker URL in `src/lib/map.ts` — see the comment there for why
+that's needed). Deploying elsewhere (Vercel, Netlify, a custom domain) that
+serves from the root doesn't need this — just leave `NEXT_PUBLIC_BASE_PATH`
+unset and run `npm run build` as normal.
+
 ## Project structure
 
 - `src/app/page.tsx` — country-level map (all communes)
