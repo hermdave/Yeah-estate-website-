@@ -1,3 +1,14 @@
+import { setWorkerUrl } from "maplibre-gl";
+
+// maplibre-gl derives its worker script URL from `import.meta.url`, which
+// doesn't resolve to a real http(s) URL under Next.js's bundling — it silently
+// falls back to spawning a worker with an empty URL, and the map never
+// renders any vector layer. Point it at our own static copy instead (kept in
+// sync via the "postinstall" script — see scripts/copy-maplibre-worker.mjs).
+if (typeof window !== "undefined") {
+  setWorkerUrl("/maplibre-gl-worker.mjs");
+}
+
 // Free, no-API-key vector tiles for MapLibre GL, courtesy of OpenFreeMap
 // (https://openfreemap.org). Fine for a demo/small project; swap in your own
 // MapTiler/Mapbox style + key for production traffic volumes.
