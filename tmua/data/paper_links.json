@@ -1,0 +1,115 @@
+{
+ "_note": "Official download links (esat-tmua.ac.uk). Local copies live in the gitignored papers/ folder under the same file names.",
+ "spec_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2025/04/30103002/TMUA_Content_Specification_April2025.pdf",
+ "logic_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2025/06/25160507/Notes_on_Logic_and_Proof_June2025.pdf",
+ "papers": {
+  "specimen-P1": {
+   "paper": "TMUA-early-specimen-paper-1.pdf",
+   "worked": "TMUA-early-specimen-paper-1-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141417/TMUA-early-specimen-paper-1.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141418/TMUA-early-specimen-paper-1-worked-answers.pdf"
+  },
+  "specimen-P2": {
+   "paper": "TMUA-early-specimen-paper-2.pdf",
+   "worked": "TMUA-early-specimen-paper-2-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141413/TMUA-early-specimen-paper-2.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141415/TMUA-early-specimen-paper-2-worked-answers.pdf"
+  },
+  "2016-P1": {
+   "paper": "TMUA-2016-paper-1.pdf",
+   "worked": "TMUA-2016-paper-1-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07125112/TMUA-2016-paper-1.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07125113/TMUA-2016-paper-1-worked-answers.pdf"
+  },
+  "2016-P2": {
+   "paper": "TMUA-2016-paper-2.pdf",
+   "worked": "TMUA-2016-paper-2-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07125102/TMUA-2016-paper-2.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07125106/TMUA-2016-paper-2-worked-answers.pdf"
+  },
+  "2017-P1": {
+   "paper": "TMUA-2017-paper-1.pdf",
+   "worked": "TMUA-2017-paper-1-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07125230/TMUA-2017-paper-1.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07125231/TMUA-2017-paper-1-worked-answers.pdf"
+  },
+  "2017-P2": {
+   "paper": "TMUA-2017-paper-2.pdf",
+   "worked": "TMUA-2017-paper-2-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07125224/TMUA-2017-paper-2.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07125228/TMUA-2017-paper-2-worked-answers.pdf"
+  },
+  "2018-P1": {
+   "paper": "TMUA-2018-paper-1.pdf",
+   "worked": "TMUA-2018-paper-1-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07125407/TMUA-2018-paper-1.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07125413/TMUA-2018-paper-1-worked-answers.pdf"
+  },
+  "2018-P2": {
+   "paper": "TMUA-2018-paper-2.pdf",
+   "worked": "TMUA-2018-paper-2-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07125404/TMUA-2018-paper-2.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07125406/TMUA-2018-paper-2-worked-answers.pdf"
+  },
+  "2019-P1": {
+   "paper": "TMUA-2019-paper-1.pdf",
+   "worked": "TMUA-2019-paper-1-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140825/TMUA-2019-paper-1.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+  },
+  "2019-P2": {
+   "paper": "TMUA-2019-paper-2.pdf",
+   "worked": "TMUA-2019-paper-2-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140823/TMUA-2019-paper-2.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140824/TMUA-2019-paper-2-worked-answers.pdf"
+  },
+  "2020-P1": {
+   "paper": "TMUA-2020-paper-1.pdf",
+   "worked": "TMUA-2020-paper-1-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140953/TMUA-2020-paper-1.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140955/TMUA-2020-paper-1-worked-answers.pdf"
+  },
+  "2020-P2": {
+   "paper": "TMUA-2020-paper-2.pdf",
+   "worked": "TMUA-2020-paper-2-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140951/TMUA-2020-paper-2.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+  },
+  "2021-P1": {
+   "paper": "TMUA-2021-paper-1.pdf",
+   "worked": "TMUA-2021-paper-1-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141119/TMUA-2021-paper-1.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+  },
+  "2021-P2": {
+   "paper": "TMUA-2021-paper-2.pdf",
+   "worked": "TMUA-2021-paper-2-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141117/TMUA-2021-paper-2.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141118/TMUA-2021-paper-2-worked-answers.pdf"
+  },
+  "2022-P1": {
+   "paper": "TMUA-2022-paper-1.pdf",
+   "worked": "TMUA-2022-paper-1-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141241/TMUA-2022-paper-1.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2022-paper-1-worked-answers.pdf"
+  },
+  "2022-P2": {
+   "paper": "TMUA-2022-paper-2.pdf",
+   "worked": "TMUA-2022-paper-2-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141239/TMUA-2022-paper-2.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+  },
+  "2023-P1": {
+   "paper": "TMUA-2023-paper-1.pdf",
+   "worked": "TMUA-2023-paper-1-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/04/30144109/TMUA-2023-paper-1.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2023-paper-1-worked-answers.pdf"
+  },
+  "2023-P2": {
+   "paper": "TMUA-2023-paper-2.pdf",
+   "worked": "TMUA-2023-paper-2-worked-answers.pdf",
+   "paper_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/04/30144111/TMUA-2023-paper-2.pdf",
+   "worked_url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+  }
+ }
+}
