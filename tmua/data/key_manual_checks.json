@@ -1,0 +1,17 @@
+{
+ "_note": "Questions whose worked answer does not state the option letter in a form the parser recognises. Each was checked by hand against the worked answer (and the options on the question paper where needed).",
+ "specimen-P1": {"14": "worked answer concludes 'we again obtain option D'"},
+ "specimen-P2": {"18": "worked answer gives largest median 8; option E is 8"},
+ "2016-P1": {"19": "'giving the answer as option B'"},
+ "2016-P2": {"4": "'so option C is correct'"},
+ "2017-P2": {"10": "'condition D is sufficient'", "12": "worked answer shows option C's ordering never occurs (independently re-derived)"},
+ "2018-P1": {"19": "worked answer has no letter; re-derived cos(theta)=sqrt(17)/5 = option D"},
+ "2018-P2": {"6": "'C provides a counterexample'"},
+ "2019-P2": {"6": "'The correct solution is therefore D'", "16": "'the correct answer is graph F'"},
+ "2020-P2": {"9": "'equivalent to the calculation of F'"},
+ "2021-P1": {"17": "worked answer has no letter; 8 circles r^2 = pi/6+2k pi, 5pi/6+2k pi, pairs closer outward = sketch A", "18": "'giving option B'"},
+ "2021-P2": {"1": "worked answer value 17; option D is 17", "5": "'it is, indeed, line B'", "6": "'So option D is correct'"},
+ "2022-P1": {"20": "'n = 2, option B'"},
+ "2022-P2": {"7": "worked answer: first error at line IV (91 = 7 x 13) = option F", "11": "worked answer: option C is the necessary and sufficient condition", "15": "'which is option F'", "17": "'the correct option is E'"},
+ "2023-P2": {"5": "'the correct answer is option A'"}
+}

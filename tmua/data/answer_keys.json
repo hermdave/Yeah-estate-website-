@@ -1,0 +1,169 @@
+{
+ "_note": "keys[paper][i] is the official answer to question i+1. Every key was cross-checked against the official worked answers (see checks).",
+ "keys": {
+  "specimen-P1": "DDBEDDCFADEDCDAEDBDG",
+  "specimen-P2": "BBCAAFCCEEDACBEAEEBD",
+  "2016-P1": "HECBCCBFDEEECDCCDABD",
+  "2016-P2": "ABDCCCCBDEDFEBDCHDFE",
+  "2017-P1": "CCABCBBAFEABCFBEDADE",
+  "2017-P2": "AEGBBAEEDDBCBFDCFBEB",
+  "2018-P1": "DCEGDEADBECFCBEFABDE",
+  "2018-P2": "CBFDACBDFBAFFEGFCCCB",
+  "2019-P1": "AAECECFEDFHCBBACCBCE",
+  "2019-P2": "ECADBDBEDAAFDBBFDEEB",
+  "2020-P1": "CCBDACADCAEDFECCAAEC",
+  "2020-P2": "EFCGAAHEFFGDDADDEGEC",
+  "2021-P1": "FFGBFDGACBAECBCBABBD",
+  "2021-P2": "DECCBDBCCECBACBEFCFE",
+  "2022-P1": "CDFCHFEBECADADHBDBFB",
+  "2022-P2": "BECBFCFCAGCFEDFDEEBE",
+  "2023-P1": "FACCFEFBEBBFFAFEEEDF",
+  "2023-P2": "HFCGAFEDDAGCCFBBFDHD"
+ },
+ "checks": {
+  "specimen-P1": {
+   "auto_agree": 19,
+   "hand_checked": [
+    14
+   ],
+   "disagree": [],
+   "unverified": []
+  },
+  "specimen-P2": {
+   "auto_agree": 19,
+   "hand_checked": [
+    18
+   ],
+   "disagree": [],
+   "unverified": []
+  },
+  "2016-P1": {
+   "auto_agree": 19,
+   "hand_checked": [
+    19
+   ],
+   "disagree": [],
+   "unverified": []
+  },
+  "2016-P2": {
+   "auto_agree": 19,
+   "hand_checked": [
+    4
+   ],
+   "disagree": [],
+   "unverified": []
+  },
+  "2017-P1": {
+   "auto_agree": 20,
+   "hand_checked": [],
+   "disagree": [],
+   "unverified": []
+  },
+  "2017-P2": {
+   "auto_agree": 18,
+   "hand_checked": [
+    10,
+    12
+   ],
+   "disagree": [],
+   "unverified": []
+  },
+  "2018-P1": {
+   "auto_agree": 19,
+   "hand_checked": [
+    19
+   ],
+   "disagree": [],
+   "unverified": []
+  },
+  "2018-P2": {
+   "auto_agree": 19,
+   "hand_checked": [
+    6
+   ],
+   "disagree": [],
+   "unverified": []
+  },
+  "2019-P1": {
+   "auto_agree": 20,
+   "hand_checked": [],
+   "disagree": [],
+   "unverified": []
+  },
+  "2019-P2": {
+   "auto_agree": 18,
+   "hand_checked": [
+    6,
+    16
+   ],
+   "disagree": [],
+   "unverified": []
+  },
+  "2020-P1": {
+   "auto_agree": 20,
+   "hand_checked": [],
+   "disagree": [],
+   "unverified": []
+  },
+  "2020-P2": {
+   "auto_agree": 19,
+   "hand_checked": [
+    9
+   ],
+   "disagree": [],
+   "unverified": []
+  },
+  "2021-P1": {
+   "auto_agree": 18,
+   "hand_checked": [
+    17,
+    18
+   ],
+   "disagree": [],
+   "unverified": []
+  },
+  "2021-P2": {
+   "auto_agree": 17,
+   "hand_checked": [
+    1,
+    5,
+    6
+   ],
+   "disagree": [],
+   "unverified": []
+  },
+  "2022-P1": {
+   "auto_agree": 19,
+   "hand_checked": [
+    20
+   ],
+   "disagree": [],
+   "unverified": []
+  },
+  "2022-P2": {
+   "auto_agree": 16,
+   "hand_checked": [
+    7,
+    11,
+    15,
+    17
+   ],
+   "disagree": [],
+   "unverified": []
+  },
+  "2023-P1": {
+   "auto_agree": 20,
+   "hand_checked": [],
+   "disagree": [],
+   "unverified": []
+  },
+  "2023-P2": {
+   "auto_agree": 19,
+   "hand_checked": [
+    5
+   ],
+   "disagree": [],
+   "unverified": []
+  }
+ }
+}
