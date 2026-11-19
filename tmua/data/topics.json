@@ -1,0 +1,145 @@
+{
+ "_note": "Section 1 topics are labelled 'Paper 1:' and Section 2 (logic & proof) topics 'Paper 2:', following the official TMUA content specification. A Paper 2 question can carry a Paper 1 topic when it mainly tests maths content.",
+ "topics": [
+  {
+   "code": "IND",
+   "name": "Paper 1: algebra/indices & surds",
+   "spec": "MM1.1-1.2, M2.7, M2.11"
+  },
+  {
+   "code": "QUA",
+   "name": "Paper 1: algebra/quadratics & discriminant",
+   "spec": "MM1.3, M4.11, M4.16"
+  },
+  {
+   "code": "SIM",
+   "name": "Paper 1: algebra/simultaneous equations",
+   "spec": "MM1.4"
+  },
+  {
+   "code": "INE",
+   "name": "Paper 1: algebra/inequalities",
+   "spec": "MM1.5, M4.17"
+  },
+  {
+   "code": "POL",
+   "name": "Paper 1: algebra/polynomials & factor theorem",
+   "spec": "MM1.6"
+  },
+  {
+   "code": "FUN",
+   "name": "Paper 1: functions & graph sketching",
+   "spec": "MM1.7, MM8, M4.12-13"
+  },
+  {
+   "code": "SEQ",
+   "name": "Paper 1: sequences & series",
+   "spec": "MM2.1-2.3, M4.18-19"
+  },
+  {
+   "code": "BIN",
+   "name": "Paper 1: binomial expansion",
+   "spec": "MM2.4"
+  },
+  {
+   "code": "LIN",
+   "name": "Paper 1: coordinate geometry/straight lines",
+   "spec": "MM3.1, M4.10"
+  },
+  {
+   "code": "CIR",
+   "name": "Paper 1: coordinate geometry/circles",
+   "spec": "MM3.2-3.3, M5.9"
+  },
+  {
+   "code": "TRT",
+   "name": "Paper 1: trigonometry/triangles (sine & cosine rules)",
+   "spec": "MM4.1, M5.18"
+  },
+  {
+   "code": "RAD",
+   "name": "Paper 1: trigonometry/radians, arcs & sectors",
+   "spec": "MM4.2, M5.16"
+  },
+  {
+   "code": "TRG",
+   "name": "Paper 1: trigonometry/graphs & equations",
+   "spec": "MM4.3-4.6"
+  },
+  {
+   "code": "LOG",
+   "name": "Paper 1: exponentials & logarithms",
+   "spec": "MM5"
+  },
+  {
+   "code": "DIF",
+   "name": "Paper 1: differentiation",
+   "spec": "MM6"
+  },
+  {
+   "code": "INT",
+   "name": "Paper 1: integration",
+   "spec": "MM7"
+  },
+  {
+   "code": "GEO",
+   "name": "Paper 1: geometry/areas, volumes & similarity",
+   "spec": "M5"
+  },
+  {
+   "code": "NUM",
+   "name": "Paper 1: number/integers, primes & counting",
+   "spec": "M2"
+  },
+  {
+   "code": "RAT",
+   "name": "Paper 1: ratio, proportion & percentages",
+   "spec": "M3"
+  },
+  {
+   "code": "STA",
+   "name": "Paper 1: statistics",
+   "spec": "M6"
+  },
+  {
+   "code": "PRO",
+   "name": "Paper 1: probability",
+   "spec": "M7"
+  },
+  {
+   "code": "IMP",
+   "name": "Paper 2: if-then, converse & contrapositive",
+   "spec": "Arg1"
+  },
+  {
+   "code": "NEC",
+   "name": "Paper 2: necessary & sufficient",
+   "spec": "Arg2"
+  },
+  {
+   "code": "QNT",
+   "name": "Paper 2: quantifiers & negation",
+   "spec": "Arg3-4"
+  },
+  {
+   "code": "CEX",
+   "name": "Paper 2: counterexamples",
+   "spec": "Prf1 (disproof by counterexample)"
+  },
+  {
+   "code": "PRF",
+   "name": "Paper 2: proof methods & ordering",
+   "spec": "Prf1, Prf4"
+  },
+  {
+   "code": "DED",
+   "name": "Paper 2: deduction & problem solving",
+   "spec": "Prf2, Prf3, Prf5"
+  },
+  {
+   "code": "ERR",
+   "name": "Paper 2: proof errors",
+   "spec": "Err1-2"
+  }
+ ]
+}
