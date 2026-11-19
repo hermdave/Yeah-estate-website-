@@ -17,7 +17,6 @@
 /.next/
 /out/
 /AGENTS.md
-/CLAUDE.md
 
 # copied at postinstall from node_modules/maplibre-gl (see scripts/copy-maplibre-worker.mjs)
 /public/maplibre-gl-worker.mjs
